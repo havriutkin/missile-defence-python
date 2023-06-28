@@ -33,13 +33,12 @@
   
   The idea of LR is to find $g(x) = \theta_0 + \theta_1x + ... + \theta_kx^k$.
   In our case $n = 3$. I won't explain the whole LR here, but in order to find this approximation
-  we need to find pseudo inverse matrix of 
-  $$
-    \begin{matrix}
-    t_0 & t_0^2 & \hdot & t_0^k \\
-    t_1 & t_1^2 & \hdot & t_1^k \\
-    \vdot & \vdot & \vdot & \vdot \\
-    t_n & t_n^2 & \hdot & t_n^k \\
-    \end{matrix}
-  $$
+  we need to find pseudo inverse matrix.
+
+## Future ideas
+  1. More trajectories for missile
+  2. Smarter observation system
+  3. New methods of approximation
+  4. 
+
 
