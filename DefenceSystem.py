@@ -1,7 +1,6 @@
 import pygame
 import numpy as np
 
-from EventManager import EventManager
 from Missile import Missile
 from Settings import Settings
 
