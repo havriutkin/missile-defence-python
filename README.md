@@ -28,5 +28,7 @@
   So, defence system eventually will have $$T = \{t_0, t_1, ..., t_n\}; X = \{x_0, x_1, ..., x_n\}; Y = \{y_0, y_1, ..., y_n\}$$
 
   Note, that since there is a noise in an obtained data the following is true: $$\exists i \in \{1, 2, ..., n\}: f(t_i) \neq (x_i, y_i)$$, where $f$ is a missile position function. Moreover, in a generic (not general) case: $$\forall i \in \{1, 2, ..., n\}: f(t_i) \neq (x_i, y_i)$$
+
+  Now, one wants use LR to find approximation of missile trajectories. 
   
   
