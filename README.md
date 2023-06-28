@@ -31,7 +31,7 @@
 
   Now, one wants to use LR to find approximation of missile trajectories. 
   
-  The idea of LR is to find $g(x) = \theta_0 + \theta_1x + ... + \theta_kx^k$.
+  The idea of LR is to find $g(x) = \theta_0 + \theta_1x + ... + \theta_kx^k$, s.t. $g(t)$ approximates $f(t)$.
   In our case $k = 3$. I won't explain the whole LR here, but in order to find this approximation
   we need to find pseudo inverse matrix.
 
