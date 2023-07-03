@@ -6,6 +6,7 @@
   Numpy was used to obtain pseudo-inverse matrix. All math behind project is explained in this document.
   Pygame library is used to create visualisation. 
   The project is not fully ready; development continues.
+  This is not a final version of README file
 
 ## Code design
   Project contains three main classes: __Missile__, __DefenceSystem__, __Scene__.
